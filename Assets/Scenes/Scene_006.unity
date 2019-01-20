@@ -124,7 +124,7 @@ ConstantForce:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 59503782}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Force: {x: 0, y: -0.1, z: 0}
   m_RelativeForce: {x: 0, y: 0, z: 0}
   m_Torque: {x: 0, y: 0, z: 0}
@@ -19065,7 +19065,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1238927006
 Transform:
   m_ObjectHideFlags: 0
@@ -19231,9 +19231,9 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.37
-  far clip plane: 5
-  field of view: 60
+  near clip plane: 0.01
+  far clip plane: 20
+  field of view: 112.6
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
@@ -28809,7 +28809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38e9cbc12585147b78da4b6bd37be4c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MLcam: {fileID: 0}
+  MLcam: {fileID: 1263621366}
 --- !u!1 &1903234693
 GameObject:
   m_ObjectHideFlags: 0
@@ -33499,7 +33499,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1962317398
 Transform:
   m_ObjectHideFlags: 0

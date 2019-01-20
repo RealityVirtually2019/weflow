@@ -19,14 +19,17 @@ public class TriggerEvent_01 : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
-        particle_anim = Particles.GetComponent<Animator>();
-        line_anim = Line.GetComponent<Animator>();
-
         anim.Play("Target_TransitionOn");
+
     }
 
     private void OnTriggerEnter(Collider other)
     {
+        Particles.SetActive(true);
+        Line.SetActive(true);
+        particle_anim = Particles.GetComponent<Animator>();
+        line_anim = Line.GetComponent<Animator>();
+
         anim.Play("Target_TransitionOff");
         particle_anim.Play("Trans_1_2");
         line_anim.Play("Trans_1_2_Line");

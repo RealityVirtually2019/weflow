@@ -27,8 +27,8 @@ public class TriggerEvent_03 : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         anim.Play("Target_TransitionOff");
-        particle_anim.Play("Trans_1_2");
-        line_anim.Play("Trans_1_2_Line");
+        particle_anim.Play("Trans_3_4");
+        line_anim.Play("Trans_3_4_Line");
         D_Target_R_JustDoIt.SetActive(true);
         Destroy(GetComponent<SphereCollider>());
     }
