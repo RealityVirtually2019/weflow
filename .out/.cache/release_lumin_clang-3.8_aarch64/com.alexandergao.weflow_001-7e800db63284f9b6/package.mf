@@ -1,0 +1,345 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "33653a54d358db8dec5e44f538f73e9fbdfa4259",
+   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
+   "size": 5036,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
+  },
+  {
+   "compression": 8,
+   "hash": "4949f6d2b5d2c67afa08dbf68ab5c8c3e49ec525",
+   "pkgpath": "Data/170c02e10c121294486c57133d65b5cc",
+   "size": 50074,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/170c02e10c121294486c57133d65b5cc"
+  },
+  {
+   "compression": 8,
+   "hash": "cd3d81e3d82ad27ad9fff5e01fdaa948d301f3e5",
+   "pkgpath": "Data/1e71f539decd80f4bb2541c46a153223",
+   "size": 50094,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/1e71f539decd80f4bb2541c46a153223"
+  },
+  {
+   "compression": 8,
+   "hash": "b43467e117fcc51ec4da91b1050e665c3b5542c8",
+   "pkgpath": "Data/2b303258409019f428ed17a87cda4ac9",
+   "size": 50342,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/2b303258409019f428ed17a87cda4ac9"
+  },
+  {
+   "compression": 8,
+   "hash": "dbff325bfad543a7260e42d0a4f2403f040152b1",
+   "pkgpath": "Data/479521f96370b384d810a07599e7b084",
+   "size": 50254,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/479521f96370b384d810a07599e7b084"
+  },
+  {
+   "compression": 8,
+   "hash": "2469df024d59ad317a7e76013bc82f408d5efefe",
+   "pkgpath": "Data/51731a8a220e240478717934f6e99543",
+   "size": 49482,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/51731a8a220e240478717934f6e99543"
+  },
+  {
+   "compression": 8,
+   "hash": "efa6b8f8eee29eb940c9f345d15299af3c4563c9",
+   "pkgpath": "Data/63e7f9bd47d71334aa0ffb67cc5bbfb1",
+   "size": 49654,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/63e7f9bd47d71334aa0ffb67cc5bbfb1"
+  },
+  {
+   "compression": 8,
+   "hash": "edef7ddee8b73c5861e9c05cb4969d178222ed12",
+   "pkgpath": "Data/7f93338dc6150ea45b387e442e8102da",
+   "size": 49366,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/7f93338dc6150ea45b387e442e8102da"
+  },
+  {
+   "compression": 8,
+   "hash": "65df50cd3f774b7dba4a1b741a61d0511e750f4b",
+   "pkgpath": "Data/8401b9c91b47d6449a4be596c8138a90",
+   "size": 50466,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/8401b9c91b47d6449a4be596c8138a90"
+  },
+  {
+   "compression": 8,
+   "hash": "4ad51582405d12865acc4cf8619118f8276f80c0",
+   "pkgpath": "Data/917dc8bcba1c29c4c8bd325b59088d1c",
+   "size": 49310,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/917dc8bcba1c29c4c8bd325b59088d1c"
+  },
+  {
+   "compression": 8,
+   "hash": "beeb2cbd84f6b07806f2a891d30d740eaac6bcbd",
+   "pkgpath": "Data/9c9078c06443df049a2830962f9dd5ef",
+   "size": 49642,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/9c9078c06443df049a2830962f9dd5ef"
+  },
+  {
+   "compression": 8,
+   "hash": "0d1c956ac39a476724dde3d81bfa01ceec351d03",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2819620,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "be86d83958735c753cfc6df68f9006b3ab328142",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 34442272,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/GAO/MagicLeap/certificates/002.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "1c1d92989869eeca0bc7d43244f7c0060b8ad799",
+   "xfrm_path": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/.out/.cache/release_lumin_clang-3.8_aarch64/com.alexandergao.weflow_001-7e800db63284f9b6/libil2cpp.so-e9546323a1f155ff",
+   "xfrm_size": 34443030
+  },
+  {
+   "compression": 8,
+   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 220456,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/GAO/MagicLeap/certificates/002.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "177af43a5463567211ccdbca091df885b6cabb2d",
+   "xfrm_path": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/.out/.cache/release_lumin_clang-3.8_aarch64/com.alexandergao.weflow_001-7e800db63284f9b6/AudioPluginMSASpatializer.so-06da4c979e204571",
+   "xfrm_size": 221214
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/GAO/MagicLeap/certificates/002.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "5570c1dc76020e53a8c38632d91146f84ecc1533",
+   "xfrm_path": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/.out/.cache/release_lumin_clang-3.8_aarch64/com.alexandergao.weflow_001-7e800db63284f9b6/UnityMagicLeap.so-06da4c979e204571",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "a765bb75be250a6992c1a46fc23a55501e369b85",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/GAO/MagicLeap/certificates/002.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "27500dc4e1c7077dbd124814fda11ea137587105",
+   "xfrm_path": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/.out/.cache/release_lumin_clang-3.8_aarch64/com.alexandergao.weflow_001-7e800db63284f9b6/libml_camera_plugin.so-06da4c979e204571",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "633780c922a0dbfe032638afff9a25e3fc49219f",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 38792,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/GAO/MagicLeap/certificates/002.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "3d6f12d4376d5ef0718eface582a5a4ff14d6444",
+   "xfrm_path": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/.out/.cache/release_lumin_clang-3.8_aarch64/com.alexandergao.weflow_001-7e800db63284f9b6/libml_mediaplayer_plugin.so-06da4c979e204571",
+   "xfrm_size": 39550
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "1c281a7abd7f0cec77eb390c3aa4d795a656335e",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 393452,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "5c18367ea31b7fc24b76d7da35e71558f3327fdc",
+   "pkgpath": "Data/adcae46baa3736748a69f9f489676bd7",
+   "size": 49726,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/adcae46baa3736748a69f9f489676bd7"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "5a26f45c5debe5a171fa444d9b35e5779820ac4c",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 35872,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "432fb3f3685812f037d8a3388e33a3bdd2c2ec08",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 37176,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "ea47b052ad5ff722fcbd6c282842f7741157c2cf",
+   "pkgpath": "Data/level0",
+   "size": 6776,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "8076f28f3ed81a4f298dbd8efb60fabfa592fdcc",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "1efc151c92e4daa3f35b56a034a9499d5c3296ee",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 140264,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "8f59c553fa65e4c62b244f94275fdf50ef6a40e8",
+   "pkgpath": "bin/Player.elf",
+   "size": 22318968,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/GAO/MagicLeap/certificates/002.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "38d07b95f01e20bf79a180d73f9eb7245cbaa0fd",
+   "xfrm_path": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/.out/.cache/release_lumin_clang-3.8_aarch64/com.alexandergao.weflow_001-7e800db63284f9b6/Player.elf-98c035c772bf1b3a",
+   "xfrm_size": 22319726
+  },
+  {
+   "compression": 8,
+   "hash": "c141215ba78402483dbf8aac7a8b047b3b8ebf7a",
+   "pkgpath": "manifest.xml",
+   "size": 633,
+   "src": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "547535da6db590af7723bbbd590d7146e1776cba",
+     "developer_id": "4de5aea3-46e6-4684-8417-16c88ae1f448"
+    }
+   },
+   "xfrm_hash": "61f1b78c5c101d6abf80eff7e8a665e7f1e443dd",
+   "xfrm_path": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/.out/.cache/release_lumin_clang-3.8_aarch64/com.alexandergao.weflow_001-7e800db63284f9b6/manifest.xml-98c035c772bf1b3a",
+   "xfrm_size": 646
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/GAO/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/GAO/MagicLeap/certificates/002.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bf63bc6b89962226a51e1f0934c2fc06c39fa0dc",
+   "xfrm_path": "/Users/GAO/MAGICLEAP PROJECTS/WeFlow_001/.out/.cache/release_lumin_clang-3.8_aarch64/com.alexandergao.weflow_001-7e800db63284f9b6/libc++_shared.so-cd52cf412b5165ea",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/GAO/MagicLeap/certificates/002.cert"
+  },
+  "taildata": {
+   "devcert": "/Users/GAO/MagicLeap/certificates/002.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
