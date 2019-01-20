@@ -41,7 +41,7 @@ public class ParentToHand2 : MonoBehaviour
         {
             //pos[0] = MLHands.Left.Middle.KeyPoints[0].Position;
             this.transform.position = MLHands.Right.Center;
-            //print(Hand.IsVisible);
+            print(MLHands.Right.IsVisible);
             //print(MLHands.Left.Index.KeyPoints[0].Position);
             //print(Hand.Thumb.KeyPoints[0].Position);
         }

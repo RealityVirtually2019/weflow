@@ -11,7 +11,10 @@ public class SceneSetup_InitializePosition : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        this.transform.position = MLcam.transform.forward * 0.5f;
+        this.transform.position = MLcam.transform.position;// + MLcam.transform.forward * 0.5f;
+        Vector3 forward = MLcam.transform.forward;
+        forward.y = 0;
+        this.transform.forward = forward.normalized;
 
     }
 

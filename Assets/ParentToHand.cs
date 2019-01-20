@@ -5,8 +5,6 @@ using UnityEngine.XR.MagicLeap;
 
 public class ParentToHand : MonoBehaviour {
 
-    //public Vector3[] pos;
-
     private MLHandKeyPose[] _gestures;
     // Use this for initialization
     void Start () {
@@ -37,7 +35,7 @@ public class ParentToHand : MonoBehaviour {
         if (MLHands.IsStarted) {
             //pos[0] = MLHands.Left.Middle.KeyPoints[0].Position;
             this.transform.position = MLHands.Left.Center;
-            //print(Hand.IsVisible);
+            print(MLHands.Left.IsVisible);
             //print(MLHands.Left.Index.KeyPoints[0].Position);
             //print(Hand.Thumb.KeyPoints[0].Position);
         }

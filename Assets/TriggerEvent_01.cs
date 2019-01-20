@@ -9,18 +9,29 @@ public class TriggerEvent_01 : MonoBehaviour
     public Animator anim;
     public GameObject B_Target_R_JustDoIt;
 
+    public Animator particle_anim;
+    public Animator line_anim;
+    public GameObject Particles;
+    public GameObject Line;
+
+
     // Use this for initialization
     void Start()
     {
         anim = GetComponent<Animator>();
+        particle_anim = Particles.GetComponent<Animator>();
+        line_anim = Line.GetComponent<Animator>();
+
         anim.Play("Target_TransitionOn");
     }
 
     private void OnTriggerEnter(Collider other)
     {
         anim.Play("Target_TransitionOff");
-        //this.SetActive(false);
+        particle_anim.Play("Trans_1_2");
+        line_anim.Play("Trans_1_2_Line");
         B_Target_R_JustDoIt.SetActive(true);
+        Destroy(GetComponent<SphereCollider>());
     }
 
     // Update is called once per frame
