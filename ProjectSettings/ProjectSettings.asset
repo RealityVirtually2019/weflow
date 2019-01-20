@@ -156,7 +156,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Lumin: com.alexandergao.weflow_001
+    Lumin: com.alexandergao.weflow_0001
     Standalone: com.Company.ProductName
   buildNumber: {}
   AndroidBundleVersionCode: 1
@@ -665,7 +665,7 @@ PlayerSettings:
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: /Users/GAO/MagicLeap/certificates/002.cert
+    m_CertPath: D:/MagicLeapProjects/MagicLeapTesting/MagicLeapTesting/Certificate/weflow3.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:
@@ -677,9 +677,9 @@ PlayerSettings:
   luminMinimumPlatformAPILevel: 3
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 10288403-4258-4840-aefe-dd02a047531a
-  projectName: WeFlow_001
-  organizationId: alexandergao
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

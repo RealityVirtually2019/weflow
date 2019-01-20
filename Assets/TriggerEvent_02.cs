@@ -29,6 +29,7 @@ public class TriggerEvent_02 : MonoBehaviour
         anim.Play("Target_TransitionOff");
         particle_anim.Play("Trans_2_3");
         line_anim.Play("Trans_2_3_Line");
+        gameObject.GetComponent<AudioSource>().Play();
         C_Target_L_JustDoIt.SetActive(true);
         Destroy(GetComponent<SphereCollider>());
     }

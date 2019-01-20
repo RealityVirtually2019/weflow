@@ -18,6 +18,7 @@ public class TriggerEvent_07 : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         anim.Play("Target_TransitionOff");
+        gameObject.GetComponent<AudioSource>().Play();
         Destroy(GetComponent<SphereCollider>());
     }
 

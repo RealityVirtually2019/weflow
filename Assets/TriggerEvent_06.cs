@@ -14,13 +14,17 @@ public class TriggerEvent_06 : MonoBehaviour
     public GameObject Particles;
     public GameObject Line;
 
+    public AudioSource secondLastStarNarration;
+
+    public GameObject finalStars;
+
     // Use this for initialization
     void Start()
     {
         anim = GetComponent<Animator>();
         particle_anim = Particles.GetComponent<Animator>();
         line_anim = Line.GetComponent<Animator>();
-
+        secondLastStarNarration.GetComponent<AudioClip>();
         anim.Play("Target_TransitionOn");
     }
 
@@ -29,6 +33,9 @@ public class TriggerEvent_06 : MonoBehaviour
         anim.Play("Target_TransitionOff");
         particle_anim.Play("Trans_6_7");
         line_anim.Play("Trans_6_7_Line");
+        gameObject.GetComponent<AudioSource>().Play();
+        secondLastStarNarration.Play();
+        finalStars.SetActive(true);
         G_Target_Final.SetActive(true);
         Destroy(GetComponent<SphereCollider>());
     }

@@ -14,13 +14,14 @@ public class TriggerEvent_01 : MonoBehaviour
     public GameObject Particles;
     public GameObject Line;
 
+    public AudioSource firstTouchNarration;
 
     // Use this for initialization
     void Start()
     {
         anim = GetComponent<Animator>();
+        firstTouchNarration.GetComponent<AudioSource>();
         anim.Play("Target_TransitionOn");
-
     }
 
     private void OnTriggerEnter(Collider other)
@@ -30,9 +31,12 @@ public class TriggerEvent_01 : MonoBehaviour
         particle_anim = Particles.GetComponent<Animator>();
         line_anim = Line.GetComponent<Animator>();
 
+
         anim.Play("Target_TransitionOff");
         particle_anim.Play("Trans_1_2");
         line_anim.Play("Trans_1_2_Line");
+        gameObject.GetComponent<AudioSource>().Play();
+        firstTouchNarration.Play();
         B_Target_R_JustDoIt.SetActive(true);
         Destroy(GetComponent<SphereCollider>());
     }
